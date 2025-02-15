@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Aside from "./components/Aside";
 import {
+  CaseChannels,
   CaseFont,
   CaseHosting,
   CaseIcons,
@@ -31,7 +32,7 @@ export default function App() {
       case 6:
         return <CasePodcast />;
       case 7:
-        return <CasePodcast />;
+        return <CaseChannels />;
       default:
         break;
     }

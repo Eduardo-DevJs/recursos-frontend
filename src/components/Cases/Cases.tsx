@@ -1,6 +1,7 @@
 import { channelsResources } from "../../data/channelsResources";
 import { fontResources } from "../../data/fontsResources";
-import { hostingResources } from "../../data/HostingResources";
+import { hostingResources } from "../../data/hostingResources";
+
 import { iconResources } from "../../data/iconsResources";
 import { imageResources } from "../../data/images";
 import { palettesResources } from "../../data/paletas";

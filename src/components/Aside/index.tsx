@@ -6,7 +6,7 @@ interface AsideProps {
 
 export default function Aside({ onItemClick }: AsideProps) {
   return (
-    <aside className="w-64 h-screen p-4 bg-gray-900 text-white shadow-xl">
+    <aside className="w-64 min-h-screen p-4 bg-gray-900 text-white shadow-xl">
       <h2 className="text-xl py-2 font-bold mb-6 text-center">
         Recursos Didáticos FrontEnd
       </h2>

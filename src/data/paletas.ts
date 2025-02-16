@@ -65,4 +65,12 @@ export const palettesResources: Item[] = [
     description:
       "O gerador de cores do Tailwind CSS permite personalizar e gerar paletas de cores para uso em projetos web com o framework Tailwind CSS.",
   },
+  {
+    id: 9,
+    name: "uiGradients",
+    link: "https://uigradients.com",
+    image: "/images/uigradients.png",
+    description:
+      "O uiGradients é uma ferramenta que permite explorar e copiar gradientes de cores para uso em projetos web, facilitando a criação de designs modernos e atrativos.",
+  },
 ];

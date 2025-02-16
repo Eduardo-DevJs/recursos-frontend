@@ -16,13 +16,13 @@ export default function ItemList({
   return (
     <li
       key={id}
-      className="p-4 flex flex-col justify-between gap-4 bg-gray-900 rounded-lg shadow-sm"
+      className="p-4 flex flex-col justify-between gap-3 bg-gray-900 rounded-lg shadow-sm"
     >
       {image && (
         <img src={image} alt={name} className="w-full h-auto mb-4 rounded-lg" />
       )}
       <h3 className="text-lg text-gray-200 font-semibold">{name}</h3>
-      <p className="text-sm text-gray-400 leading-6">{description}</p>
+      <p className="text-sm text-gray-400 leading-5">{description}</p>
       <a
         href={link}
         target="_blank"

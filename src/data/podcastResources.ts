@@ -39,7 +39,7 @@ export const podcastResources: Item[] = [
     link: "https://devnaestrada.com.br/",
     image: "/images/devnaestrada.png",
     description:
-      "Podcast voltado para a realidade do desenvolvimento de software no Brasil e as experiências de desenvolvedores.",
+      "Um podcast sobre o dia a dia do desenvolvimento de software no Brasil! Com uma abordagem descontraída e realista, bate-papos com desenvolvedores sobre desafios da carreira, tecnologias emergentes e muito mais.",
   },
   {
     id: 6,
@@ -47,7 +47,7 @@ export const podcastResources: Item[] = [
     link: "https://open.spotify.com/show/094hX276k5lFzM8Ig2xpsl",
     image: "/images/olagabs.png",
     description:
-      "Podcast que conecta pessoas do mundo da tecnologia, programação e design.",
+      "Apresentado por Gabs Ferreira, o podcast traz conversas com profissionais da área, abordando tendências do mercado, desafios do desenvolvimento, dicas de carreira e histórias inspiradoras. ",
   },
   {
     id: 7,
